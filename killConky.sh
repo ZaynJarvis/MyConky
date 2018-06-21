@@ -1,0 +1,1 @@
+sudo killall -SIGKILL conky
